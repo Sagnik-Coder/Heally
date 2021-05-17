@@ -148,6 +148,11 @@ input[type="checkbox"]{
     background-color: #fff;
     border-bottom: 4px solid #000000;
 }
+#bmi{
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 4px solid #000000;
+}
 #covid{
     width: 100%;
     background-color: #fff;
@@ -167,6 +172,9 @@ h1{
     border-bottom: 4px solid #000000;
 }
 #general #q{
+    text-align: center;
+}
+#bmi #q{
     text-align: center;
 }
 .button-sub {
